@@ -1,0 +1,48 @@
+
+.body {
+    background-color: #ced4da;
+    overflow: hidden;
+    transition: transform 0.2s;
+    text-align: center;
+}
+
+
+
+.imagem {
+    width: 100%;
+    border-radius: 200px 200px 200px 200px;
+    text-align: left;
+}
+
+.titulo {
+    font-size: 50px;
+    margin-top: 10px;
+    background-color: #62b6cb;
+}
+
+.descricao {
+    font-size: 20px;
+    margin-top: 10px;
+    margin: 25px;
+    text-align: justify;
+}
+
+.nome {
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.img {
+    max-width: 200px;
+    border-radius: 700px 700px 700px 700px;
+}
+
+.comentario {
+    font-size: 20px;
+    margin-top: 10px;
+    margin: 5px;
+    text-align: justify;
+    background-color: rgb(243, 243, 243);
+}
